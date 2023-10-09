@@ -1,6 +1,9 @@
 THIS PROJECT IS STILL UNDER DEVELOPMENT  - DEVELOPED AND MAINTAINED BY USAMA .H
 ---
 
+![HomeScreen](https://github.com/usamaH-dotdev/financerpro/assets/126305135/06cdcf21-0cf1-4efb-9b1b-6d0c8f7397a4)
+![Entry Screen](https://github.com/usamaH-dotdev/financerpro/assets/126305135/5fa9b228-ab3b-43a9-90ee-75994d314cbc)
+
 # Project Information
 
 ## Project Name: FinancerPro
@@ -39,7 +42,6 @@ To run FinancerPro locally, follow these steps:
    ```bash
    npm install
    ```
-
 4. Start the application:
 
    ```bash
